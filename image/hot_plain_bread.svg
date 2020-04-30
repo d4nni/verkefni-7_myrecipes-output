@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   height="80mm"
+   width="80mm">
+  <style type="text/css">
+  .gufa {
+    animation-name: gufan;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    top: 0;
+  }
+
+  @keyframes gufan {
+    0%  {fill: #FFAD1F; fill-opacity: 0.8;}
+    50%  {fill: #FFE651; fill-opacity: 0.3;}
+    100%  {fill: #FFAD1F; fill-opacity: 0.7;}
+  }
+
+  .gufar {
+    animation-name: guff;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    top: 0;
+  }
+
+  @keyframes guff {
+    0%  {fill: #FFE651; fill-opacity: 0.2;}
+    50%  {fill: #FFAD1F; fill-opacity: 0.7;}
+    100%  {fill: #FFE651 fill-opacity: 0.8;}
+  }
+   </style>
+   xml:space="preserve"
+   viewBox="0 0 302.36218 302.36223"
+   y="0px"
+   x="0px"
+   id="Capa_1"
+   version="1.1"><metadata
+   id="metadata4703"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4701"><linearGradient
+   id="linearGradient1077"><stop
+     id="stop1073"
+     offset="0"
+     style="stop-color:#ff6600;stop-opacity:1;" /><stop
+     id="stop1075"
+     offset="1"
+     style="stop-color:#aa4400;stop-opacity:1" /></linearGradient>
+	
+	
+<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0,0,0.51033767,0,113.44456)"
+   r="129.12512"
+   fy="194.4489"
+   fx="133.09068"
+   cy="194.4489"
+   cx="133.09068"
+   id="radialGradient1079"
+   xlink:href="#linearGradient1077" /><radialGradient
+   r="129.12512"
+   fy="194.4489"
+   fx="133.09068"
+   cy="194.4489"
+   cx="133.09068"
+   gradientTransform="matrix(1,0,0,0.51033767,31.000004,118.44456)"
+   gradientUnits="userSpaceOnUse"
+   id="radialGradient1141"
+   xlink:href="#linearGradient1077" />
+		
+		
+		
+	</defs>
+<style
+   id="style4209"
+   type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#282829;}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<path
+   style="fill:#ffdd55;fill-opacity:1;stroke-width:2.60141563"
+   id="path4550"
+   d="m 195.37626,33.986914 c 10.67365,11.697766 5.46699,26.514936 -1.04133,39.512453 -3.905,7.798511 -9.89265,16.116922 -10.67365,25.735085 -1.04134,14.297268 15.35964,21.055978 22.64896,24.435328 3.38433,1.55971 -2.343,11.95772 -5.46699,10.65797 -14.83898,-6.49876 -29.41762,-16.37687 -22.64896,-39.252504 4.68599,-15.856971 30.45895,-43.151758 15.8803,-58.748779 -2.34299,-2.599503 -1.30166,-5.199007 1.30167,-2.339553 z"
+   class="st1 gufa"><title
+     id="title1161">gufa3</title></path><path
+   style="fill:#ffdd55;fill-opacity:1;stroke-width:2.60141563"
+   id="path4552"
+   d="m 99.053081,23.5889 c 10.673649,11.697766 5.466989,26.514936 -1.041332,39.512453 -3.904994,7.798511 -9.89265,16.116922 -10.673649,25.735085 -1.041332,14.297272 15.35964,21.055982 22.64896,24.435332 3.38433,1.5597 -2.34299,11.95772 -5.46699,10.65797 C 89.681096,117.43098 75.102453,107.55286 81.871109,84.677232 86.557101,68.820261 112.33006,41.525474 97.751416,25.928453 95.668753,23.068999 96.449752,20.729446 99.053081,23.5889 Z"
+   class="st1 gufa"><title
+     id="title1157">gufa1</title></path><path
+   style="fill:#ffdd55;fill-opacity:1;stroke-width:2.60141563"
+   id="path4554"
+   d="m 144.09067,8.5117798 c 11.97532,16.1169212 5.98766,36.9129502 -1.04133,54.8495242 -4.42566,11.177865 -10.93398,22.35573 -11.71498,36.133098 -1.30166,20.016178 16.92164,29.374388 25.25229,34.053498 3.905,2.0796 -2.60333,16.89677 -5.98765,15.07712 -16.40098,-9.09826 -32.54162,-22.87563 -24.99196,-54.849525 5.20666,-22.09578 33.58294,-60.048531 17.70264,-81.884361 -3.124,-3.8992549 -2.08267,-7.2786095 0.78099,-3.3793542 z"
+   class="st1 gufar"><title
+     id="title1159">gufa2</title></path>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   style="display:inline"
+   id="layer6"><path
+     d="M 98.140239,286.08651 A 129,64 0 0 1 22.537453,205.51239 129,64 0 0 1 182.13735,165.1468 a 129,64 0 0 1 87.01691,77.68729 129,64 0 0 1 -153.3767,45.92156"
+     id="path1108"
+     style="fill:#ffdd55;fill-rule:evenodd;stroke-width:1.08258891" /></g><g
+   style="display:inline"
+   id="layer7"><g
+     transform="translate(-30,-8.5)"
+     id="g1152"><path
+       style="fill:url(#radialGradient1141);fill-opacity:1;stroke-width:2.60141563"
+       id="path4548"
+       d="m 263.8642,188.71832 c 6.50832,24.17538 -2.60333,45.75126 -2.60333,45.75126 -0.781,-32.23385 -16.92164,-49.39057 -23.95063,-55.62938 -15.88031,-4.41915 -33.58295,-7.27861 -52.58725,-8.05846 14.05798,28.33459 1.82233,57.18908 1.82233,57.18908 -1.04133,-35.0933 -19.7853,-52.50997 -25.51262,-57.18908 -17.96297,1.0398 -34.88462,3.89926 -49.98393,8.31841 12.49598,27.55474 1.04134,55.36943 1.04134,55.36943 -0.781,-24.69529 -10.15299,-40.55226 -17.702636,-49.39057 -29.41762,12.21767 -48.42192,30.67414 -48.42192,51.47017 0,36.39305 57.793896,66.02739 129.125116,66.02739 71.33122,0 129.12513,-29.63434 129.12513,-66.02739 -0.26034,-18.71643 -15.61998,-35.87315 -40.3516,-47.83086 z"
+       class="st1" /></g></g></svg>
